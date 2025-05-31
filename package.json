@@ -10,10 +10,10 @@
   },
   "dependencies": {
     "axios": "^1.6.0"
-  }
+  },
   "publishConfig": {
-  "access": "public"
-  }
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/yourname/homebridge-myq-bnikx.git"
