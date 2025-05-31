@@ -1,6 +1,6 @@
 {
   "name": "homebridge-myq-bnikx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Homebridge plugin to control myQ Garage Door",
   "main": "index.js",
   "keywords": ["homebridge-plugin"],
