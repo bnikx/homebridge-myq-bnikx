@@ -13,4 +13,9 @@
   }
   "publishConfig": {
   "access": "public"
+  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourname/homebridge-myq-bnikx.git"
+  }
 }
